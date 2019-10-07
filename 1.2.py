@@ -1,6 +1,8 @@
 '''
 Task:
-You need to unpack N elements from an iterable, but the iterable may be longer than N elements, causing a “too many values to unpack” exception.
+You need to unpack N elements from an iterable,
+but the iterable may be longer than N elements,
+causing a “too many values to unpack” exception.
 '''
 
 # Example 1
